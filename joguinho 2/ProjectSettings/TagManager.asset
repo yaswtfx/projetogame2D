@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bloco
   - Chao
+  - Ref
   layers:
   - Default
   - TransparentFX
